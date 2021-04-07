@@ -78,15 +78,15 @@ nav li a{
 }
 /*.btn{
 	animation: fade-in 1s 2s forwards ease-in;
-}
+}*/
 #hero h1{
 	opacity: 0.5;
-	animation: fade-to-left 1s 0s forwards ease-in;
+	/*animation: fade-to-left 1s 0s forwards ease-in;*/
 }
 #hero h2{
 	opacity: 0.5;
-	animation: fade-to-right 1s 0s forwards ease-in;
-}*/
+	/*animation: fade-to-right 1s 0s forwards ease-in;*/
+}
 /******** GALLERY  ********/
 #gallery{
 	padding-bottom: 40px;
